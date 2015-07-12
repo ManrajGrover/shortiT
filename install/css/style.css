@@ -1,0 +1,7 @@
+.errorD { border: 1px solid red; }
+.successD { border: 1px solid green; }
+.hidden{ display:none; }
+.visible{ display:block; }
+.alignLeft{ float:left; }
+.alignRight{ float:right; }
+.center { float: none; margin-left: auto; margin-right: auto; width:50%; vertical-align: middle; margin-top:6%; margin-bottom:20%; }
