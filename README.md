@@ -1,4 +1,4 @@
-# shortiT *currently under work*
+# shortiT (*currently under work*)
 Personal URL shortening service.
 
 ## To Do's
